@@ -1,0 +1,56 @@
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# Webpack output
+dist/
+build/
+
+# Project files
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Babel cache
+.cache/
+
+# Coverage directory used by Jest
+coverage/
+
+# Mac system files
+*.DS_Store
+
+# Temporary files
+tmp/
+temp/
+
+# Editor directories and files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Docit configuration and output
+docit.config.js
+public/docs/
+
+# Tailwind CSS generated files
+tailwind.config.js
+
+# Misc
+*.pem
+*.key
+*.crt
